@@ -1,0 +1,2 @@
+# LuaCmdLine
+C + + and Lua mixed calls, get the system command line interface, query system environment variables, and execute CMD system instructions. And DES encryption algorithm is used to encrypt Lua files. When the command line is executed, the Lua file is decrypted by DES and executed in the form of a string, which achieves the encryption effect of the Lua file that is invisible to the outside world. 
